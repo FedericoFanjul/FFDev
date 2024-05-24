@@ -8,7 +8,7 @@ Docente Universitario  - Instructor de UX/UI y  de Desarrollo de Videojuegos
 
 Habilidades: SQL/Unity/Figma/Prototyping/C#Script/Java
 
-- 💬 Pregúntame acerca de Unity/Diseño de Base de Datos/Diseño de Videojuegos/Diseño de UX 
+- 💬 Pregúntame acerca de Unity/Diseño de Base de Datos/Diseño de Videojuegos/Diseño de UX/Scrum/Procesos de Diseño y Desarrollo de Software 
 - 📫 Cómo contactarme: jfanjul@unsta.edu.ar / jffanjul@yahoo.com.ar 
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
